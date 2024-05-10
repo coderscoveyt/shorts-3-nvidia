@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "end": 104,
+    "text": "...the time to start worrying about the future of our jobs has arrived."
+  },
+  {
+    "id": 2,
+    "start": 104,
+    "end": 252,
+    "text": "On March 18th, NVIDIA unveiled the Blackwell B200 Tensor Core chip,"
+  },
+  {
+    "id": 3,
+    "start": 252,
+    "end": 420,
+    "text": "The company's most powerful single chip GPU with 208 billion transistors."
+  },
+  {
+    "id": 4,
+    "start": 420,
+    "end": 620,
+    "text": "NVIDIA claims it can reduce AI inference operating costs, such as running chat GPT, and energy"
+  },
+  {
+    "id": 5,
+    "start": 620,
+    "end": 740,
+    "text": "consumption by up to 25 times compared to the H100,"
+  },
+  {
+    "id": 6,
+    "start": 740,
+    "end": 822,
+    "text": "a chip they put into production two years ago."
+  },
+  {
+    "id": 7,
+    "start": 822,
+    "end": 1030,
+    "text": "The company also unveiled the GB200, a super chip that combines the B200 chips and the"
+  },
+  {
+    "id": 8,
+    "start": 1030,
+    "end": 1110,
+    "text": "Grace CPU for even more performance."
+  },
+  {
+    "id": 9,
+    "start": 1110,
+    "end": 1260,
+    "text": "The Blackwell platform will allow the training of trillion parameter AI models that will"
+  },
+  {
+    "id": 10,
+    "start": 1260,
+    "end": 1385,
+    "text": "make today's generative AI models look rudimentary in comparison."
+  },
+  {
+    "id": 11,
+    "start": 1385,
+    "end": 1410,
+    "text": "All in all..."
+  }
+]

@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:03,000
+...the time to start worrying about the future of our jobs has arrived.
+
+2
+00:00:03,000 --> 00:00:08,000
+On March 18th, NVIDIA unveiled the Blackwell B200 Tensor Core chip.
+
+3
+00:00:08,000 --> 00:00:14,000
+The company's most powerful single chip GPU with 208 billion transistors.
+
+4
+00:00:14,000 --> 00:00:20,000
+NVIDIA claims it can reduce AI inference operating costs such as running chat GPT and energy
+
+5
+00:00:20,000 --> 00:00:24,000
+consumption by up to 25 times compared to the H100,
+
+6
+00:00:24,000 --> 00:00:27,000
+a chip they put into production two years ago.
+
+7
+00:00:27,000 --> 00:00:34,000
+The company also unveiled the GB200, a super chip that combines the B200 chips and the
+
+8
+00:00:34,000 --> 00:00:37,000
+Grace CPU for even more performance.
+
+9
+00:00:37,000 --> 00:00:41,000
+The Blackwell platform will allow the training of trillion parameter AI models that will
+
+10
+00:00:41,000 --> 00:00:45,000
+make today's generative AI models look rudimentary in comparison.
+
+11
+00:00:45,000 --> 00:01:15,000
+All in all...
+
